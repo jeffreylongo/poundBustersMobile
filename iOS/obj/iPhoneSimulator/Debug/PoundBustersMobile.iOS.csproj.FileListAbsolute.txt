@@ -1,0 +1,25 @@
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/PoundBustersMobile.iOS.exe
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/PoundBustersMobile.iOS.pdb
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/PoundBustersMobile.iOS.csproj.CoreCompileInputs.cache
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/PoundBustersMobile.iOS.csproj.CopyComplete
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/PoundBustersMobile.iOS.exe
+/Users/jefflongo/Projects/PoundBustersMobile/iOS/obj/iPhoneSimulator/Debug/PoundBustersMobile.iOS.pdb

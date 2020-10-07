@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="multiprojId">
+  <MonoDevelop.Ide.ItemProperties.PoundBustersMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1D0AD8AB-D698-49E5-93BF-C107180F91F8">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PoundBustersMobile.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Activities/AddItemActivity.cs">
+    <Files>
+      <File FileName="ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="Droid/Activities/AddItemActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PoundBustersMobile" expanded="True">
+            <Node name="PoundBustersMobile" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="PoundBustersMobile.Droid" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PoundBustersMobile FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PoundBustersMobile.Droid FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="multiprojId" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{78FE6F88-660E-4DE5-9A27-90F0DD13BD92}" ItemName="PoundBustersMobile.iOS" />
+        <StartupItem ItemId="{3D7A590F-52AC-4591-B4D0-4B65AF30DD22}" ItemName="PoundBustersMobile.Droid" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
